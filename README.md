@@ -8,5 +8,7 @@ The x86_64 version requires the NASM assembler.
 
 The ARM64 version builds with the 'as' assembler available on Raspberry Pi OS.
 
+In the C code comments, type 'f64' is a 64-bit floating-point value, and 'u32' is an unsigned 32-bit integer.
+
 LICENSE: This code is released to the public domain.
          It is provided "as-is" without warranty of any kind.
